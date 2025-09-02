@@ -10,7 +10,6 @@ function showLogger() {
 function logFood(food, selectedMeal) {
     var mealDiv;
     if (selectedMeal == "breakfast-select") {
-        console.log("HERE")
         mealDiv = document.getElementById("breakfast-meal");
     }
     else if (selectedMeal == "lunch-select") {
