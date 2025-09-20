@@ -1,4 +1,10 @@
-// allows logger to popup when "Log" is pressed
+
+
+
+
+
+
+/*// allows logger to popup when "Log" is pressed
 function showLogger() {
     const mealSelect = document.getElementById("mealSelect");
     const selectedMeal = mealSelect.value;
@@ -22,4 +28,4 @@ function logFood(food, selectedMeal) {
     newFood.textContent = food;
     mealDiv.appendChild(newFood);
 
-}
+}*/
